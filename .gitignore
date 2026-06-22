@@ -1,0 +1,15 @@
+# Ambiente virtual
+.venv/
+
+# Dados brutos (baixados do Kaggle — ver README)
+data/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos serializados grandes (opcional)
+*.joblib
