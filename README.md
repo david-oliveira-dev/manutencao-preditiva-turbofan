@@ -101,3 +101,8 @@ reports/figures/  # gráficos exportados
 
 > Todos os números deste README vêm da execução real de `python -m src.model`.
 > Nenhuma métrica foi inventada.
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-oliveira-9970a42a5)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/david-oliveira-dev)
